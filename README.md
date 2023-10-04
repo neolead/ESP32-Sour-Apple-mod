@@ -5,6 +5,10 @@ Original by: https://github.com/RapierXbox/ESP32-Sour-Apple/tree/main
 !!! Modded for comlipe with NimBLE library in arduino ide for esp32
 
 
+NIM_BLE :
+https://github.com/h2zero/NimBLE-Arduino
+https://github.com/h2zero/NimBLE-Arduino/archive/refs/tags/1.4.1.zip
+
 
 # IOS17 Crash Exploit
 The Exploit was original found by ECTO-1A and then refactored by WillyJL. I portet it to the ESP32 from the Flipper Zero Xtreme firmware. Scripts for the ESP8266 are coming soon. The exploit crashes when the device is locked on the homescreen.
